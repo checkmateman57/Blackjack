@@ -58,13 +58,13 @@ while p == True:
         s2e = int(0)
         e = int(0)
         de = int(0)
-        uc1 = random.randint(10,10)
+        uc1 = random.randint(2,11)
         if uc1 == int(11):
             e = e + 1
         dc1 = random.randint(2,11)
         if dc1 == int(11):
             de = de +1
-        uc2 = random.randint(10,10)
+        uc2 = random.randint(2,11)
         if uc2 == int(11):
             e = e + 1
         dc2 = random.randint(2,11)
