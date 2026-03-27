@@ -32,3 +32,8 @@ Good luck if you're trying to read the code honestly 🙏🙏🙏. It's pretty c
 ![jimmy-butler-wtf](https://github.com/user-attachments/assets/bed7848c-6a65-4b8c-9944-8a265a26c02c)
 
 Cus I was definitely looking at it like that on some occasions as well.
+
+<img width="271" height="152" alt="image" src="https://github.com/user-attachments/assets/14ff3808-e3a4-497f-aff3-59c592dc4347" />
+
+That image honestly an accurate representation of my code
+
