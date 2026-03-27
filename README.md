@@ -35,5 +35,5 @@ Cus I was definitely looking at it like that on some occasions as well.
 
 <img width="271" height="152" alt="image" src="https://github.com/user-attachments/assets/14ff3808-e3a4-497f-aff3-59c592dc4347" />
 
-That image honestly an accurate representation of my code
+That image honestly an accurate representation of my code, it works but who knows how.
 
